@@ -1,0 +1,6 @@
+{
+  "name": "LitBuddy AI",
+  "description": "Literary AI Assistant for mastering English literature, deep text analysis, and structured essay outline generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
