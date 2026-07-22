@@ -36,8 +36,8 @@ Tools and Technologies Used:
 
 Screenshots:
 (Home Page)
-<img width="1892" height="873" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/6be168c2-2c38-4d67-8bfe-a43ae95dbbe1" />
 <img width="1894" height="851" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/77928244-02e1-4212-b406-15fc68e2160f" />
+<img width="1363" height="443" alt="Screenshot 2026-07-22 145036" src="https://github.com/user-attachments/assets/78554490-25be-4e59-ac11-0e9875bfc359" />
 <img width="1898" height="852" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/f4a0f29d-c493-478d-aa52-9fb299663a2f" />
 <img width="1363" height="443" alt="Screenshot 2026-07-22 145036" src="https://github.com/user-attachments/assets/78554490-25be-4e59-ac11-0e9875bfc359" />
 
